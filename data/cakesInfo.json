@@ -1,0 +1,123 @@
+[
+    {
+        "id": "1",
+        "name": "Selfie Cake",
+        "image": "./images/cakes/MirrorCake.jpg",
+        "price": "600",
+        "flavor": "Any",
+        "weight": "1"
+    },
+    {
+        "id": "2",
+        "name": "Barbie Cake",
+        "image": "./images/cakes/BarbieCake.jpg",
+        "price": "600",
+        "flavor": "Any",
+        "weight": "1"
+    },
+    {
+        "id": "3",
+        "name": "Mickey Mouse Cake",
+        "image": "./images/cakes/MickeyMouseCake.jpg",
+        "price": "2000",
+        "flavor": "Any",
+        "weight": "3"
+    },
+    {
+        "id": "4",
+        "name": "Fairy Cake",
+        "image": "./images/cakes/LEDLightCake.jpg",
+        "price": "800",
+        "flavor": "Any",
+        "weight": "1"
+    },
+    {
+        "id": "5",
+        "name": "10 Tier Cake",
+        "image": "./images/cakes/TenTierCake.jpg",
+        "price": "2200",
+        "flavor": "Any",
+        "weight": "4"
+    },
+    {
+        "id": "6",
+        "name": "Two Tier Cake",
+        "image": "./images/cakes/TwoTierCake.jpg",
+        "price": "1200",
+        "flavor": "Any",
+        "weight": "2"
+    },
+    {
+        "id": "7",
+        "name": "Fondant Cake",
+        "image": "./images/cakes/FondantCake.jpg",
+        "price": "600",
+        "flavor": "Any",
+        "weight": "1"
+    },
+    {
+        "id": "8",
+        "name": "Photo Cake",
+        "image": "./images/cakes/PhotoCake.jpg",
+        "price": "700",
+        "flavor": "Any",
+        "weight": "1"
+    },
+    {
+        "id": "9",
+        "name": "Red Velvet Cake",
+        "image": "./images/cakes/RedVelvetCake.jpg",
+        "price": "700",
+        "flavor": "Red Velvet",
+        "weight": "1"
+    },
+    {
+        "id": "10",
+        "name": "Choco Truffle Cake",
+        "image": "./images/cakes/ChocoTruffleCake.jpg",
+        "price": "700",
+        "flavor": "Choco Truffle",
+        "weight": "1"
+    },
+    {
+        "id": "11",
+        "name": "Chocolate Cake",
+        "image": "./images/cakes/ChocolateCake.jpg",
+        "price": "600",
+        "flavor": "Chocolate",
+        "weight": "1"
+    },
+    {
+        "id": "12",
+        "name": "Strawberry Cake",
+        "image": "./images/cakes/StrawberryCake.jpg",
+        "price": "800",
+        "flavor": "Strawberry",
+        "weight": "1.5"
+    },
+    {
+        "id": "13",
+        "name": "Blackcurrant Cake",
+        "image": "./images/cakes/BlackcurrantCake.jpg",
+        "price": "500",
+        "flavor": "Blackcurrant",
+        "weight": "1"
+    },
+    {
+        "id": "14",
+        "name": "Pineapple Cake",
+        "image": "./images/cakes/PineappleCake.jpg",
+        "price": "500",
+        "flavor": "Pineapple",
+        "weight": "1"
+    },
+    {
+        "id": "15",
+        "name": "Butterscotch Cake",
+        "image": "./images/cakes/ButterscotchCake.jpg",
+        "price": "600",
+        "flavor": "Butterscotch",
+        "weight": "1"
+    }
+
+]

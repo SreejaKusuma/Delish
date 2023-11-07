@@ -1,0 +1,33 @@
+.headerCon{
+    display: flex;
+    background: transparent;
+    height: 10vh;
+    /* font-family: 'Times New Roman', Times, serif; */
+    align-items: center;
+    width: 98.7vw;
+    position: absolute;
+    font-weight: 900;
+    font-size: 20px;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    justify-content: space-around;
+}
+.headerCon>div{
+    text-shadow:#ecbb51;
+    cursor: pointer;
+    
+}
+.dummy{
+   width: 80vw;
+}
+
+.headerBtns{
+    flex-basis: 3vw;
+    background-color: transparent;
+    border-style: none;
+    /* background-color: #E9C95C;
+    color: #5d3d2c; */
+    color: black;
+    font-size: 20px;
+}

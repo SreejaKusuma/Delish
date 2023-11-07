@@ -1,0 +1,101 @@
+body, div, p{
+    margin: 0;
+    padding: 0;
+}
+
+#chsection_one{
+    margin-top: 0;
+    background-image: url(../../public/images/chocolates_edited.jpg);
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    opacity: 0.95;
+    display: flex;
+    align-items: center;
+}
+
+#heading{
+    font-size: 100px;
+    padding-top: 15px;
+    color: #d6c9a0;
+    flex-grow: 1;
+}
+
+.dummy{
+    flex-grow: 1;
+}
+
+#searchbox
+{
+    color: #a91717;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: bisque;
+    padding: 5px 5px 5px 5px;
+}
+
+#searchbox::placeholder
+{
+    color: #a91717;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+}
+
+#filter
+{
+    color: #a91717;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+#clear
+{
+    clear: both;
+    padding-bottom: 30px;
+}
+
+.choco
+{
+    float: left;
+    margin: 20px 20px 20px 20px;
+    border: 2px solid #a91717;
+    position: relative;
+    border-radius: 10px;
+}
+
+.imgchoco
+{
+    float: left;
+    height:250px;
+    width:250px; 
+    padding:5px 5px 5px 5px;
+}
+.content
+{
+    text-align: center;
+}
+
+.chGoBackIcon{
+    position: relative;
+    height: 3vw;
+    left: 3vw;
+    color: rgb(237, 173, 95);
+}
+
+.chGoBackIcon:hover{
+    color: rgb(191, 125, 78);
+}
+
+.chGoBack{
+    flex-grow: 1;
+    text-align: left;
+}

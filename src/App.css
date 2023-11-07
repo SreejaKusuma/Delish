@@ -1,0 +1,27 @@
+footer{
+    background-color: #745240;
+    color: #E9C95C;
+    font-size: 15px;
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footerH{
+    font-size: 20px;
+    width: 33.333%;
+
+}
+
+.linksH{
+    width: 66.666%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.links{
+    color: #E9C95C;
+}
+

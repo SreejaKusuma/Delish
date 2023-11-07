@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,500&display=swap');
+
+.modal{
+    width: 100vw;
+}
+
+.heading{
+    text-align: center;
+    width: 100%;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 30px;
+}
+
+.cakeImage{
+    height:20.3vw;
+}
+
+.body{
+    display: flex;
+    justify-content: space-around;
+    z-index: 2;
+}
+
+table{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+img{
+    height:20.3vw;
+    width: 20.3vw; 
+}
+
+.one{
+    width: 100px;
+}
+
+input, select{
+    width: 200px;
+    height: 30px;
+}
+
+.instr{
+    text-align: center;
+}
+
+/* .RBody{
+    background-image: url("../../../public/images/doodle6.jpg");
+    background-size: contain;
+    position: absolute;
+    display: inline-block;
+    height: 323px;
+    width: 780px;
+    z-index: 1;
+    opacity: 0.3;
+    left: 320px;
+} */
+
+.itemCounter{
+    /* visibility: hidden;
+    position: absolute;
+    right: 83px; */
+}
+
+
+.modalFooter{
+    text-align: right;
+}

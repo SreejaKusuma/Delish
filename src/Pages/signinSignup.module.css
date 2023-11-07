@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+
+.main{
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px rgb(191, 191, 191) solid;
+    padding: 31px;
+}
+
+
+label{
+    font-size: 13px;
+    width: 35vw;
+    text-align: left;
+}
+
+h1{
+    font-family: 'Ephesis', cursive;
+    color:  #E9C95C;
+    text-shadow: 0 0 1px #745240;
+    margin-bottom: 30px;
+}
+
+h4{
+    color: #745240;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+input{
+    width: 35vw;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid rgb(191, 191, 191);
+}
+
+input:focus{
+    outline: 3.4px solid #7452406f ;
+}
+
+button{
+    width: 35vw;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #E9C95C;
+    background-color: #E9C95C;
+    color: #745240;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+div{
+    text-align: center;
+}
